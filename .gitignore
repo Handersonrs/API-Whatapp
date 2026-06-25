@@ -1,0 +1,7 @@
+node_modules/
+auth_info/
+auth_info_fallback/
+.wwebjs_auth/
+.wwebjs_cache/
+chat_contacts.json
+package-lock.json
